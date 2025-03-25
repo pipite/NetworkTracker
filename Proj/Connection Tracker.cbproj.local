@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/02/02 16:29:50.000.178,=C:\Users\berna\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2024/02/02 16:29:54.000.026,=C:\Users\berna\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2024/02/02 16:35:04.000.664,C:\Users\berna\Documents\Embarcadero\Studio\Projets\Unit1.dfm=C:\Local\Dev\Connection Tracker\Main.dfm</Transaction>
+    <Transaction>2024/02/02 16:35:04.000.664,C:\Users\berna\Documents\Embarcadero\Studio\Projets\Unit1.h=C:\Local\Dev\Connection Tracker\Main.h</Transaction>
+    <Transaction>2024/02/02 16:35:04.000.664,C:\Users\berna\Documents\Embarcadero\Studio\Projets\Unit1.cpp=C:\Local\Dev\Connection Tracker\Main.cpp</Transaction>
+    <Transaction>2024/02/02 16:35:27.000.327,C:\Users\berna\Documents\Embarcadero\Studio\Projets\Project1PCH1.h=C:\Local\Dev\Connection Tracker\Connection TrackerPCH1.h</Transaction>
+    <Transaction>2024/02/02 16:35:33.000.863,C:\Users\berna\Documents\Embarcadero\Studio\Projets\Project1.cbproj=C:\Local\Dev\Connection Tracker\Connection Tracker.cbproj</Transaction>
+    <Transaction>2024/02/02 19:17:29.000.096,=C:\Local\Dev\Connection Tracker\Unit1.cpp</Transaction>
+    <Transaction>2024/02/02 19:17:48.000.609,C:\Local\Dev\Connection Tracker\Urls.cpp=C:\Local\Dev\Connection Tracker\Unit1.cpp</Transaction>
+    <Transaction>2024/02/02 19:17:48.000.609,C:\Local\Dev\Connection Tracker\Urls.h=C:\Local\Dev\Connection Tracker\Unit1.h</Transaction>
+    <Transaction>2024/02/02 23:12:20.000.467,=C:\Local\Dev\Connection Tracker\Unit1.cpp</Transaction>
+    <Transaction>2024/02/19 15:02:01.000.700,C:\Local\Dev\Network Perf Tracker\Urls.cpp=</Transaction>
+  </Transactions>
+</BorlandProject>
